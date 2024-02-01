@@ -9,6 +9,7 @@ By Aman Verma 102103043 B.E Computer Engineering ,TIET Patiala
 In this Assignment, We were given a Credit Card Dataset comprising of 772 instances and 31 features, out of whixh on checking it was found that the data had 763 instance of Class 0 and only 9 instances of Class 1, pointing to the fact that the dataset is highly imbalanced.
 
 Following Pie-Chart Shows the Class Imbalance :
+
 ![image](https://github.com/iosaman503/102103043_Sampling/assets/90442567/f54b7565-e7d9-4707-9954-fdb2cbda34a9)
 
 
